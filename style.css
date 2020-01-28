@@ -1,0 +1,24 @@
+*{
+    transition: all 2s;
+}
+body{
+    background: lightcyan;
+    height: 2000px;
+}
+strong {
+color: #010101;
+font-weight: 400;
+font-family: gilroy;
+}
+i {
+color:royalblue;
+font-family: gilroy;
+}
+div{
+    position: fixed;
+color:green;
+font-weight: 700;
+font-size: 20px;
+text-decoration: underline;
+font-family: gilroy;
+}
